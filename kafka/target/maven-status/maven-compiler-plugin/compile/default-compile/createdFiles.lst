@@ -1,0 +1,4 @@
+spark/kafka/KafkaExample$IKafkaConstants.class
+spark/kafka/KafkaExample.class
+spark/kafka/KafkaExample$ProducerCreator.class
+spark/kafka/KafkaExample$ConsumerCreator.class
